@@ -1,0 +1,70 @@
+:root{
+    --primary:#160b13;
+    --light:#F320F0;
+}
+
+body{
+    overflow: hidden;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #F320F0;
+    background-color:rgb(224, 180, 224);
+    /* background: no-repeat; */
+      background-size: 100vw
+}
+
+.container{
+    height: 100vh;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.bg-primary{
+    background-color: var(--primary) !important;
+}
+
+
+
+#sidebar-container{
+    min-height: 100vh;
+    min-width: 216px;
+}
+
+#sidebar-container .logo{
+    padding: .875rem 1.25rem;
+}
+
+#sidebar-container .menu{
+    width: 10rem;
+}
+
+.d-block{
+    color: var(--light);
+    
+}
+
+#navbar .navbar-expand-lg .navbar-light .bg-light{
+    width: 1138px;
+    display: block;
+}
+
+.main-card {
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu {
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;    
+}
+
+.icon-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-items: center;
+}

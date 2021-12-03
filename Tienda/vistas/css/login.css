@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(224, 180, 224);
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.btn-log{
+    background-color:#c585b3 ;
+    border-color: #c585b3;
+}
+
+.card-shadow{
+    background-color:#c585b3 ;
+}

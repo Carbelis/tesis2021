@@ -1,0 +1,18 @@
+body{
+    background-color:  #89216B;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.btn-log{
+    background-color:#c585b3 ;
+    border-color: #c585b3;
+}
+
+.card-shadow{
+    background-color:#c585b3 ;
+}
+
+.le{
+    font-size: 1rem;
+}
